@@ -63,7 +63,7 @@ This page provides a summary of compliance performance through KPI cards, charts
 - Compliance Status Breakdown
 - Compliance Requirements by Department
 
-![Compliance Overview Dashboard](screenshots/page1-compliance-overview.png)
+![Compliance Overview Dashboard](/page1-compliance-overview.png)
 
 ---
 
