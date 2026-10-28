@@ -138,6 +138,6 @@ The two tables are linked through **Requirement ID**.
 
 **Oluwatoyin Praise Oloruntoba**  
 Data Analyst | AI Governance & Compliance | Executive Virtual Assistant  
-📍 Lagos, Nigeria · Open to Remote Roles
+📍 Open to Remote Roles
 
 [LinkedIn](https://www.linkedin.com/in/oluwatoyin-oloruntoba-779873388) · [Portfolio](https://app.notion.com/p/Compliance-Gap-Analysis-Monitoring-Dashboard-403cd905012f81d39317ce882279a6a2?source=copy_link)
