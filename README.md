@@ -80,7 +80,7 @@ This page provides a more detailed view of identified gaps and corrective action
 
 > **Note:** The report's interactions are configured so that the Compliance Status slicer does not filter the Corrective Actions by Status chart.
 
-![Gap Analysis & Monitoring Dashboard](screenshots/page2-gap-analysis.png)
+![Gap Analysis & Monitoring Dashboard](page2-gap-analysis.png)
 
 ---
 
